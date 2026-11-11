@@ -36,14 +36,26 @@ Xenith uses the member's own Claude through the Claude Code command line tool.
    If not, do not run a login yourself. Tell the member: "In Xenith, open Setup and press Sign in to Claude. Your browser
    opens: sign in and click Authorize."
 
-## 3. Hand over to the member
-Tell the member, in these words or close to them:
+## 3. Sign in and finish Setup
+The member signs in to Xenith themselves: tell them "In the Xenith window, sign in with the email you joined with. You get
+a 6 digit code by email." Wait until they say they are in. Never type their email code or any password for them.
 
-> Xenith Studio is installed and open.
-> 1. In the Xenith window, sign in with the email you joined with. You get a 6 digit code by email.
-> 2. Xenith opens Setup. Press **Install everything** at the top and wait a few minutes.
-> 3. If anything stays red, tell me what it says and I will help.
-> Optional extras (extra voices, Blender and so on) can wait. You do not need them for your first video.
+Then finish Setup. Xenith's own **Install everything** button installs every part a video needs and, with its box "Also add
+the free extras" ticked (the default), the free extras too (clip downloads, a free draft voice, faster word timing, 3D photo
+moves, reading text in pictures). It never adds paid services, Blender or anything that needs a key.
+
+- **If you can use this computer's apps (computer use is on):** ask the member once: "Want me to click through Setup for
+  you?" If yes, request access to Xenith Studio only, open its Setup page, make sure "Also add the free extras" is ticked,
+  press **Install everything**, and wait, taking a screenshot every minute or so, until it finishes. If "Signed in to Claude"
+  is red, press **Sign in to Claude** and tell the member to finish the sign in in their browser (you never type it). Press
+  **Check again** at the end and tell the member what is green and what, if anything, still needs them. Touch nothing else
+  in Xenith or on the computer.
+- **Otherwise:** tell the member: "Xenith opened Setup. Press **Install everything** at the top (leave 'Also add the free
+  extras' ticked) and wait a few minutes. If anything stays red, tell me what it says and I will help."
+
+## 3b. What the member hears at the end
+> Xenith Studio is installed and ready. Press **New video** or try **Hyperdrive**: type one sentence and Claude makes the
+> whole video. Paid picture and voice services can be added any time in Settings > AI and accounts > Connections.
 
 ## 4. If the member comes back with a problem
 - Setup items that stay red: ask what the row says. Most have a button in Xenith that fixes them; tell them which.
